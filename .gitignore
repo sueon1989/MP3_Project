@@ -99,6 +99,6 @@ local.properties
 config.properties
 
 ### 자동 업데이트 파일
-#MANIFEST.MF
+MANIFEST.MF
 .classpath
-#pom.properties
+pom.properties
