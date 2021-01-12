@@ -100,5 +100,5 @@ config.properties
 
 ### 자동 업데이트 파일
 #MANIFEST.MF
-#.classpath
+.classpath
 #pom.properties
